@@ -1,0 +1,15 @@
+.odd-color-font {
+    background-color: rgb(245, 125, 165);
+    font-family: Verdana, sans-serif;
+}
+.font-24 {
+    font-size: 24px;
+}
+#element-two {
+    color: rgb(87, 87, 223);
+    font-size: 36px;
+}
+#element-four {
+    background-color: rgb(86, 230, 86);
+    font-weight: bold;
+}
